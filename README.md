@@ -21,4 +21,3 @@ in the same folder as the notebook before running.
 
 ## Usage
 Run the .ipynb file in order from top to bottom.
-<img width="730" height="545" alt="image" src="https://github.com/user-attachments/assets/5360470a-70cb-4309-8863-b1a0a718dfb2" />
