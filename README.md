@@ -1,5 +1,3 @@
-# amazon-discount-prediction
-
 # Predicting Discount Depth on Amazon
 
 ## Requirements
